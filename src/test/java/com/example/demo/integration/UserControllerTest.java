@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.demo.integration;
 
 import com.example.demo.controller.UserController;
 import com.example.demo.dto.RegisterNewUserDTO;
