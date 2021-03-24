@@ -18,6 +18,7 @@ import java.awt.print.Pageable;
 import java.util.Collections;
 import java.util.List;
 
+//depracated forPaths - be careful
 
 @EnableSwagger2
 @Configuration
