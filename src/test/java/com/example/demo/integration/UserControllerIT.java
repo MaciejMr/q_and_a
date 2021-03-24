@@ -18,7 +18,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 @SpringBootTest
 @Transactional
-class UserControllerTest {
+class UserControllerIT {
 
     @Autowired
     private UserController sut;
