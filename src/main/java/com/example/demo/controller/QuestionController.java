@@ -1,6 +1,7 @@
 package com.example.demo.controller;
 
 import com.example.demo.dto.AddQuestionDTO;
+import com.example.demo.dto.QuestionWithAnswersAndCommentsDTO;
 import com.example.demo.service.QuestionService;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;

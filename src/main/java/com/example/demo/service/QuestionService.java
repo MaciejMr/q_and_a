@@ -3,6 +3,7 @@ package com.example.demo.service;
 import com.example.demo.dto.AddQuestionDTO;
 import com.example.demo.dto.QuestionDTO;
 import com.example.demo.dto.QuestionHistoryDTO;
+import com.example.demo.dto.QuestionWithAnswersAndCommentsDTO;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
 import org.springframework.security.core.userdetails.UserDetails;
