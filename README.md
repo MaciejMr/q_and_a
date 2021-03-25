@@ -31,8 +31,11 @@ Database:
 - H2 (Tests only)
 
 ## Setup
-To run this project download it locally and open using for example InteliJ IDEA. Run QuestionsApplication and head to browser. Type http://localhost:8082/swagger-ui.html and you are able to see swagger API documentation.
+To run this project download it locally and open using for example InteliJ IDEA. Configure MySQL database. Run QuestionsApplication and head to browser. Type http://localhost:8082/swagger-ui.html and you are able to see swagger API documentation.
 
+![Swagger API documentation](https://github.com/MaciejMr/q_and_a/blob/master/images/swagger_screenshot.jpg?raw=true)
+
+To authorize registered user click on Authorization button and enter "Bearer [yourApiKey]".
 ## Functionality
 
 Functionalities listed below. Instruction how to operate in swagger in parentheses.
